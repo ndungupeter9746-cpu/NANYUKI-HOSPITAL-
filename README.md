@@ -1,7 +1,4 @@
-# NANYUKI-HOSPITAL-
-Health care facility
-git clone https://github.com/YOUR_USERNAME/modern-hospital-system.git
-cd modern-hospital-system/
+modern-hospital-system/
 ├── backend/
 │   ├── src/
 │   │   ├── controllers/
@@ -16,8 +13,5 @@ cd modern-hospital-system/
 ├── docs/
 │   └── architecture.md
 └── README.md
-git add .
-git commit -m "Initial project structure"
-git push
-odern-hospital-system
+
 
